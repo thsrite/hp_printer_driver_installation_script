@@ -3,3 +3,4 @@
 
 
 脚本仅留存备份
+驱动备份到群晖/home/isos/mac下 HewlettPackardPrinterDrivers.dmg
